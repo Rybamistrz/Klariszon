@@ -12,6 +12,7 @@
 		E5CC79141EA27678007131F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5CC79121EA27678007131F8 /* Main.storyboard */; };
 		E5CC79161EA27678007131F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5CC79151EA27678007131F8 /* Assets.xcassets */; };
 		E5CC79191EA27678007131F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5CC79171EA27678007131F8 /* LaunchScreen.storyboard */; };
+		E5CC79211EA28D5A007131F8 /* APC_0049-hdr.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E5CC79201EA28D5A007131F8 /* APC_0049-hdr.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E5CC79151EA27678007131F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E5CC79181EA27678007131F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E5CC791A1EA27678007131F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E5CC79201EA28D5A007131F8 /* APC_0049-hdr.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "APC_0049-hdr.jpg"; path = "../../../../Downloads/APC_0049-hdr.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		E5CC790D1EA27678007131F8 /* Klariszon */ = {
 			isa = PBXGroup;
 			children = (
+				E5CC79201EA28D5A007131F8 /* APC_0049-hdr.jpg */,
 				E5CC790E1EA27678007131F8 /* AppDelegate.swift */,
 				E5CC79101EA27678007131F8 /* ViewController.swift */,
 				E5CC79121EA27678007131F8 /* Main.storyboard */,
@@ -126,6 +129,7 @@
 			files = (
 				E5CC79191EA27678007131F8 /* LaunchScreen.storyboard in Resources */,
 				E5CC79161EA27678007131F8 /* Assets.xcassets in Resources */,
+				E5CC79211EA28D5A007131F8 /* APC_0049-hdr.jpg in Resources */,
 				E5CC79141EA27678007131F8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
